@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    font-family: 'Krona One', sans-serif;     
+ }
+
+ #contenido{
+     width: 70%;
+     margin: 0px  auto;
+      }
+
+ header{
+    background-color: blue;
+    height: 250x;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    line-height: 100px;
+    }
+
+h5{
+    background-color: red;
+     text-align: center;
+     height: 250x;
+     width: 100%;
+}
+nav ul li {
+float: ;
+margin: 10px;
+}
+
+
+h2{
+background-color: green;
+text-align: center;
+    }
+    
+ h4{
+ text-align: center;
+      }
+
+ h6{
+  background-color: cornflowerblue;
+ text-align: center;
+  margin: 0px auto;
+  text-align: center;
+  line-height: 100px;
+            }
+
+ #content{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     width: 70%;
+    margin: 0px auto;
+    align-items: center;
+         }
+
+ #misionyvision{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     width: 70%;
+    margin: 0px auto;
+              }
+
+footer{
+    background-color: burlywood;
+}
